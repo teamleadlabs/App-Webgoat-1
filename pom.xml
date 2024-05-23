@@ -486,7 +486,7 @@
         <executions>
           <execution>
             <goals>
-              <goal>repackage</goal>
+              <goal>exec-war-only</goal>
             </goals>
           </execution>
         </executions>
